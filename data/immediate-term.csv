@@ -1,4 +1,4 @@
-Subject,LOCATION,Country,Value,year,month
+Subject,LOCATION,Country,Interest-Rate,Year,Month
 "Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",AUS,Australia,5.0,2000,1
 "Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",AUS,Australia,5.48,2000,2
 "Immediate interest rates, Call Money, Interbank Rate, Per cent per annum",AUS,Australia,5.5,2000,3

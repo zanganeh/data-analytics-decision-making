@@ -1,4 +1,4 @@
-Subject,LOCATION,Country,Value,year,month
+Subject,LOCATION,Country,Interest-Rate,Year,Month
 "Long-term interest rates, Per cent per annum",AUS,Australia,7.177895,2000,1
 "Long-term interest rates, Per cent per annum",AUS,Australia,6.957619,2000,2
 "Long-term interest rates, Per cent per annum",AUS,Australia,6.570435,2000,3

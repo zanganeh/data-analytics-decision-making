@@ -1,4 +1,4 @@
-Subject,LOCATION,Country,Value,year,month
+Subject,LOCATION,Country,Interest-Rate,Year,Month
 "Short-term interest rates, Per cent per annum",AUS,Australia,5.66,2000,1
 "Short-term interest rates, Per cent per annum",AUS,Australia,5.8,2000,2
 "Short-term interest rates, Per cent per annum",AUS,Australia,5.89,2000,3
